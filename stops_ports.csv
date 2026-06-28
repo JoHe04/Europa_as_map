@@ -1,0 +1,64 @@
+﻿order;name;lat;lon;country;type;tags;nights;must_sees;notes;show_label;leg_type_to_next;leg_note_to_next
+1;Vaihingen an der Enz;48.934;8.959;Germany;Stadt;Start|Heimatbasis;0;;Startpunkt;yes;Straße;
+2;Hamburg;53.5511;9.9937;Germany;Stadt;Geschichte|Kultur|Hafen;2;Speicherstadt|Elbphilharmonie|Hafen;;yes;Straße;
+3;Copenhagen;55.6761;12.5683;Denmark;Stadt;Kultur|Stadt;2;Nyhavn|Rosenborg|Christiania;;yes;Straße;
+4;Gothenburg;57.7089;11.9746;Sweden;Stadt;Küste|Kultur;2;Schärenküste|Haga;;yes;Straße;
+5;Stockholm;59.3293;18.0686;Sweden;Stadt;Geschichte|Kultur|Schären;3;Gamla Stan|Schären|Vasa Museum;;yes;Straße;
+6;Oslo;59.9139;10.7522;Norway;Stadt;Kultur|Fjord;2;Opernhaus|Vigelandpark|Fjord;;yes;Straße;
+7;Hardangervidda National Park;60.0;7.5;Norway;Nationalpark;Wandern|Astrofotografie|Landschaft;3;Hochebene|Wandern|Astrofotografie;;yes;Straße;
+8;Bergen;60.3913;5.3221;Norway;Stadt;Kultur|Fjord|Geschichte;2;Bryggen|Fløyen|Fjordtour;;yes;Straße;
+9;Ålesund;62.4722;6.1495;Norway;Fotospot;Küste|Architektur|Fotospot;2;Jugendstil|Aksla|Fjordlandschaft;;yes;Straße;
+10;Trondheim;63.4305;10.3951;Norway;Stadt;Geschichte|Kultur;2;Nidarosdom|Bakklandet;;yes;Straße;
+11;Lofoten;68.1525;13.6094;Norway;Fotospot;Nordlichter|Fotospot|Landschaft|Milchstraße;5;Reine|Haukland Beach|Nordlichter;Sehr wichtiger Foto- und Landschaftsstopp;yes;Straße;
+12;North Cape;71.1725;25.784;Norway;Fotospot;Nordkap|Fotospot|Mitternachtssonne;1;Mitternachtssonne|Nordkapplateau;;yes;Straße;
+13;Helsinki;60.1699;24.9384;Finland;Stadt;Kultur|Fährhafen;2;Dom|Suomenlinna|Design District;Fährverbindung nach Tallinn;yes;Straße;Helsinki Stadt → West Terminal 2
+13.1;Port of Helsinki West Terminal 2;60.14964;24.91433;Finland;Fähre;Hafen|Fähre|Tallinn|Baltikum|Transit;0;West Terminal 2;Fährterminal für Tallink Silja und Eckerö Line nach Tallinn;yes;Fähre;Helsinki West Terminal 2 → Tallinn D-Terminal
+13.2;Tallinn D-Terminal;59.44350;24.76691;Estonia;Fähre;Hafen|Fähre|Tallinn|Baltikum|Transit;0;Old City Harbour|D-Terminal;Tallink-D-Terminal im Hafen von Tallinn;yes;Straße;Tallinn D-Terminal → Tallinn Altstadt
+14;Tallinn;59.437;24.7536;Estonia;Stadt;Geschichte|Kultur|Altstadt;2;Altstadt|Toompea;;yes;Straße;
+15;Soomaa National Park;58.43;25.0;Estonia;Nationalpark;Moor|Wildnis|Natur;2;Moore|Kanufahren|Wildnis;;yes;Straße;
+16;Riga;56.9496;24.1052;Latvia;Stadt;Geschichte|Kultur|Jugendstil;2;Altstadt|Jugendstilviertel;;yes;Straße;
+17;Vilnius;54.6872;25.2797;Lithuania;Stadt;Geschichte|Kultur;2;Altstadt|Užupis|Gediminas;;yes;Straße;
+18;Torun;53.0138;18.5984;Poland;Stadt;Geschichte|Altstadt;1;Altstadt|Kopernikus|Weichsel;;yes;Straße;
+19;Spreewald;51.86;14.03;Germany;Nationalpark;Natur|Kanu|Kultur;2;Kanäle|Lehde|Kahnfahrt;;yes;Straße;
+20;Harz National Park;51.77;10.62;Germany;Nationalpark;Wandern|Sternenhimmel|Natur;2;Brocken|Wandern|Sternenhimmel;;yes;Straße;
+21;Amsterdam;52.3676;4.9041;Netherlands;Stadt;Kultur|Geschichte|Kanäle;2;Grachten|Rijksmuseum|Jordaan;;yes;Straße;
+22;Brussels;50.8503;4.3517;Belgium;Stadt;Kultur|Geschichte|EU;1;Grand Place|Atomium;Etappe nach Norwich als See-/Fährverbindung visualisiert;yes;Straße;Brussels → Calais Eurotunnel Terminal
+22.1;Calais Eurotunnel Terminal;50.936315;1.814964;France;Fähre;Eurotunnel|Autozug|Channel Tunnel|Transit|Hafen;0;LeShuttle Terminal Coquelles;Bevorzugte Verbindung nach Großbritannien: LeShuttle / Eurotunnel für Autos;yes;Eurotunnel;Calais/Coquelles → Folkestone durch den Channel Tunnel
+22.2;Folkestone Eurotunnel Terminal;51.093389;1.119278;United Kingdom;Fähre;Eurotunnel|Autozug|Channel Tunnel|Transit|Hafen;0;LeShuttle Terminal Folkestone;UK-Seite des Eurotunnels, danach weiter Richtung Norwich;yes;Straße;Folkestone Eurotunnel Terminal → Norwich
+23;Norwich;52.6309;1.2974;United Kingdom;Stadt;Geschichte|Kultur;1;Cathedral|Norfolk Broads;;yes;Straße;
+24;Glasgow;55.8642;-4.2518;United Kingdom;Stadt;Kultur|Stadt;2;Kelvingrove|West End;;yes;Straße;
+25;Fort William;56.8198;-5.1052;United Kingdom;Fotospot;Highlands|Fotospot|Wandern;2;Ben Nevis|Glen Nevis;;yes;Straße;
+26;Cairngorms National Park;57.08;-3.67;United Kingdom;Nationalpark;Wandern|Wildlife|Landschaft;3;Highlands|Wandern|Wildlife;;yes;Straße;
+27;Skye;57.535;-6.226;United Kingdom;Fotospot;Fotospot|Landschaft|Küste;4;Old Man of Storr|Quiraing|Fairy Pools;;yes;Straße;Skye → Cairnryan Ferry Terminal
+27.1;Cairnryan Ferry Terminal;54.981261;-5.032169;United Kingdom;Fähre;Hafen|Fähre|Schottland|Irland|Transit;0;Loch Ryan Port;Praktische und bekannte Schottland–Irland-Verbindung mit Stena Line nach Belfast;yes;Fähre;Cairnryan → Belfast, Stena Line
+27.2;Belfast Stena Line Terminal;54.636757;-5.882917;United Kingdom;Fähre;Hafen|Fähre|Belfast|Nordirland|Transit;0;Victoria Terminal 4;Ankunftsterminal der Stena Line aus Cairnryan;yes;Straße;Belfast → Dublin
+28;Dublin;53.3498;-6.2603;Ireland;Stadt;Kultur|Geschichte|Fährhafen;2;Trinity College|Temple Bar|Howth;;yes;Straße;Dublin → Rosslare Europort
+28.1;Rosslare Europort;52.2511887;-6.3377699;Ireland;Fähre;Hafen|Fähre|Irland|Wales|Transit;0;Rosslare Europort;Direkte Route nach Südwest-Wales / Pembrokeshire;yes;Fähre;Rosslare → Pembroke Dock, Irish Ferries
+28.2;Pembroke Dock Ferry Terminal;51.6950;-4.9528;United Kingdom;Fähre;Hafen|Fähre|Wales|Pembrokeshire|Transit;0;Pembroke Dock Ferry Terminal;Ankunft in Wales, nah an Pembrokeshire;yes;Straße;Pembroke Dock → Pembrokeshire
+29;Pembrokeshire;51.8;-4.9;United Kingdom;Nationalpark;Küste|Wandern|Natur;3;Coast Path|St Davids|Strände;;yes;Fähre;UK → Frankreich
+30;Nantes;47.2184;-1.5536;France;Stadt;Kultur|Stadt;1;Machines de l’île|Altstadt;;yes;Straße;
+31;Landes de Gascogne Regional Nature Park;44.35;-0.75;France;Nationalpark;Natur|Küste|Wald;2;Pinienwald|Dünen|Seen;;yes;Straße;
+32;Barcelona;41.3851;2.1734;Spain;Stadt;Kultur|Architektur|Stadt;3;Sagrada Família|Gotisches Viertel|Montjuïc;;yes;Straße;
+33;Valencia;39.4699;-0.3763;Spain;Stadt;Kultur|Küste|Stadt;2;Ciudad de las Artes|Altstadt|Albufera;;yes;Straße;
+34;Seville;37.3891;-5.9845;Spain;Stadt;Geschichte|Kultur|Stadt;2;Alcázar|Kathedrale|Triana;;yes;Straße;
+35;Lisabon;38.7223;-9.1393;Portugal;Stadt;Kultur|Küste|Fotospot;3;Alfama|Belém|Miradouros;;yes;Straße;
+36;Porto;41.1579;-8.6291;Portugal;Stadt;Kultur|Küste|Geschichte;2;Ribeira|Dom Luís I|Douro;;yes;Straße;
+37;Peneda-Gerês National Park;41.78;-8.17;Portugal;Nationalpark;Wandern|Natur|Berge;3;Wandern|Wasserfälle|Bergdörfer;;yes;Straße;
+38;Santillana del Mar;43.389;-4.108;Spain;Stadt;Geschichte|Kultur;1;Altstadt|Altamira;;yes;Straße;
+39;Pyrenees National Park;42.88;-0.12;France;Nationalpark;Wandern|Sternenhimmel|Milchstraße|Berge;3;Berge|Wandern|Sternenhimmel;;yes;Straße;
+40;Toulouse;43.6047;1.4442;France;Stadt;Kultur|Stadt;1;Altstadt|Garonne|Raumfahrt;;yes;Straße;
+41;Verdon Regional Nature Park;43.74;6.36;France;Nationalpark;Landschaft|Fotospot|Wandern;2;Gorges du Verdon|Lac de Sainte-Croix;;yes;Straße;
+42;Nice;43.7102;7.262;France;Stadt;Küste|Kultur|Stadt;2;Promenade des Anglais|Altstadt|Colline du Château;;yes;Straße;
+43;Genoa;44.4056;8.9463;Italy;Stadt;Geschichte|Hafen|Kultur;1;Altstadt|Hafen|Palazzi dei Rolli;;yes;Straße;
+44;Portofino;44.3036;9.2099;Italy;Fotospot;Küste|Fotospot|Wandern;1;Hafen|Wanderwege|Küste;;yes;Straße;
+45;Vernazza;44.1347;9.685;Italy;Fotospot;Küste|Fotospot|Cinque Terre;1;Cinque Terre|Hafen|Aussichtspunkte;;yes;Straße;
+46;Florence;43.7696;11.2558;Italy;Stadt;Geschichte|Kunst|Kultur;2;Dom|Uffizien|Ponte Vecchio;;yes;Straße;
+47;Bologna;44.4949;11.3426;Italy;Stadt;Kultur|Essen|Geschichte;1;Arkaden|Piazza Maggiore|Türme;;yes;Straße;
+48;Milan;45.4642;9.19;Italy;Stadt;Kultur|Stadt|Architektur;2;Dom|Navigli|Brera;;yes;Straße;
+49;Bergamo;45.6983;9.6773;Italy;Stadt;Geschichte|Kultur|Fotospot;1;Città Alta|Stadtmauer;;yes;Straße;
+50;Ljubljana;46.0569;14.5058;Slovenia;Stadt;Kultur|Stadt|Transit;2;Altstadt|Burg|Flussufer;;yes;Straße;
+51;Zagreb;45.815;15.9819;Croatia;Stadt;Kultur|Geschichte;1;Oberstadt|Kathedrale;;yes;Straße;
+52;Sarajevo;43.8563;18.4131;Bosnia and Herzegovina;Stadt;Geschichte|Kultur;2;Baščaršija|Geschichte|Aussicht;;yes;Straße;
+53;Belgrade;44.7866;20.4489;Serbia;Stadt;Geschichte|Kultur|Donau;2;Festung|Donau/Sava|Skadarlija;;yes;Straße;
+54;Budapest;47.4979;19.0402;Hungary;Stadt;Geschichte|Kultur|Thermalbad;3;Parlament|Burgviertel|Thermalbäder;;yes;Straße;
+55;Prague;50.0755;14.4378;Czechia;Stadt;Geschichte|Kultur|Altstadt;3;Altstadt|Karlsbrücke|Burg;Endpunkt der aktuellen Route;yes;;
